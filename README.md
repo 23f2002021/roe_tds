@@ -1,5 +1,5 @@
 # Matrix Build Workflow
 
-This project demonstrates a GitHub Actions matrix build.
+This repository demonstrates a GitHub Actions matrix build with artifacts.
 
-📧 Email: yourname@example.com
+📧 Email: 23f2002021@ds.study.iitm.ac.in
